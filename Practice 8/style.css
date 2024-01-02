@@ -1,0 +1,17 @@
+.loader{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: solid gray 5px;
+    border-left: solid black 5px;
+    animation: loaderLoad 0.5s ease-in-out 0s infinite Normal;
+}
+@keyframes loaderLoad {
+    form{
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+    
+}

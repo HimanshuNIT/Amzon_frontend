@@ -1,0 +1,27 @@
+*{
+    margin:none;
+    padding: none;
+}
+#navbar{
+    background-color: black;
+    height: 60px;
+
+}
+a{
+    color: white;
+    margin-right: 160px;
+    text-decoration: none;
+}
+.ama{
+    color: #f08801 ;
+}
+.div{
+    height: 100px;
+    width: 100px;
+    border: solid black 5px;
+}
+footer{
+    color: white;
+    background-color: black;
+    text-align:center;
+}

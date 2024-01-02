@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    text-align: center;
+} */
+div{
+    background-color: #0f1111;
+    height: 60px;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 200px;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
